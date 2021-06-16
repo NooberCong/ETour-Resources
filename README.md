@@ -14,3 +14,5 @@
     2. [Class Diagram](https://lucid.app/lucidchart/1078a848-ee0b-440d-9177-f98ae5730026/edit)
     3. [Client Screen Flow](https://lucid.app/lucidchart/72010873-fe22-476a-8a28-9012d268fd30/edit)
     4. [Company Screen Flow](https://lucid.app/lucidchart/71e397ae-d6de-445e-84ea-7b170f070d7a/edit)
+3. Non Doc Files
+    1. [Sequence Diagrams](https://drive.google.com/drive/folders/1qq0dm2JtJLZDgYfql_LkXJi06e5GXPvG?usp=sharing)
