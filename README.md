@@ -8,7 +8,7 @@
     4. [Use Case Specification](https://docs.google.com/document/d/1kiB_-iMRJbxphcBclzjVXWi358IVcPcRWt83pMYMlN0/edit)
     5. [Product Backlog](https://docs.google.com/spreadsheets/d/1KCh0IHx4Ok8Bf7TwpvkT0PkQzumL2766WhjGFniofNs/edit#gid=0)
     6. [Prioritization](https://docs.google.com/spreadsheets/d/1FddDXYCIwmSz72lI-GZs1eYimSogbgrCIX3ydg2ttv4/edit?usp=sharing)
-    7. [Design Document](https://docs.google.com/document/d/1pjm_CqAxl1AHTf3zTeJPak7IW6Fer2QBqJJAEbexO9A/edit?usp=sharing)
+    7. [Design Document](https://docs.google.com/document/d/18blpMDdgW2_V9-cChTLXD9A4QmpMEeSgv_W27c9TA4c/edit#)
 2. Diagrams
     1. [Use Case Diagram](https://lucid.app/lucidchart/db1cbef1-f40d-43a4-a3b3-ee54f75ce431/edit?page=0_0#)
     2. [Class Diagram](https://lucid.app/lucidchart/1078a848-ee0b-440d-9177-f98ae5730026/edit)
